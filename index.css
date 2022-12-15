@@ -1,0 +1,23 @@
+#bi{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+   color: white;
+
+}
+body{
+    background-color: rgb(0, 0, 55);
+    margin: 10px;
+}
+
+
+#dica{
+    font-size: 30px;
+    text-align: center;
+    color: red;
+}
+#horus{
+    float: right;
+    color: white;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
